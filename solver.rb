@@ -1,12 +1,9 @@
 class Solver
   def factorial(num)
-    return "Cannot find factorial of negative number #{num}" if num.negative?
+    raise ArgumentError if num.negative?
+    return 1 if num.zero?
 
-    lim = 1
-    (1..num).each do |n|
-      lim *= n
-    end
-    lim
+    num * factorial(num - 1)
   end
 
   def reverse(word)
