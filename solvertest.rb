@@ -8,4 +8,7 @@ describe Solver do
    it "Should expect factorial of negative number to raise error" do
     expect(solver.factorial(-10)).to eq("Cannot find factorial of negative number -10")
    end
+   it "Should expect the reverse function to print a reverse of provided string" do
+expect(solver.reverse("word")).to eq("drow")
+   end
 end
