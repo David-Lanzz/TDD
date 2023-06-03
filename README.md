@@ -84,13 +84,12 @@ Install all the dependencies required for, by using the command below
 
 <!-- AUTHOR -->
 
- 👥 Authors <a name="author"></a>
+## 👥 Authors <a name="author"></a>
 
 👤 **David-Lanzz**
 - GitHub: [@githubhandle](https://github.com/David-Lanzz/)
 - Twitter: [@twitterhandle](https://twitter.com/LanzzDavid)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/david-lanzz)
-## 👥 Author <a name="author"></a>
 
 
 👤 **Zewdie Habtie**
