@@ -1,5 +1,5 @@
 require_relative "solver.rb"
 
-describe Solver
+describe Solver do
 
 end
