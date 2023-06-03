@@ -11,4 +11,7 @@ def factorial(num)
  lim
 end
 
+def reverse(word)
+ word.reverse!
+end
 end
