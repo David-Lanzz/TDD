@@ -13,6 +13,6 @@ expect(solver.reverse("word")).to eq("drow")
    end
 
    it "Should expect to print fizz, buzz or fizzbuzz depending on integer provided" do
-      expect(solver.fizzbuzz(5).to eq("buzz")
+      expect(solver.fizzbuzz(5)).to eq("buzz")
    end
 end
